@@ -12,7 +12,7 @@
   margin-right: 15px;
 }
 
-.btn {
+.btn, .btn.active, .btn:active, .btn:focus, .btn:hover {
   margin: 25px 15px 0px 15px;
   color: white;
 }
